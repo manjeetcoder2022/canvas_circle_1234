@@ -1,0 +1,35 @@
+
+body{
+    background-image: url("banner_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+background-position: center;
+
+}
+
+
+button{
+    width: 120px;
+    height: 40px;
+    font-size: 22px;
+    font-weight: bold;
+    background-color: grey;
+    color: white;
+}
+
+input{
+    width:100px;
+    height: 30px;
+   font-style: italic;
+   margin-right: 50px;
+}
+
+
+
+
+
+#myCanvas{
+    background-color: white;
+    border: 1px;
+    border-style: double;
+}
